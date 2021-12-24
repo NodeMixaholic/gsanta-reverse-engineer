@@ -1,0 +1,27 @@
+{
+  "destinations": [
+    {
+      "id": "takeoff",
+      "arrival": 1,
+      "departure": 99999999999999,
+      "population": 42000,
+      "presentsDelivered": 69,
+      "city": "Longview",
+      "region": "Texas",
+      "location": {
+        "lat": 32.5,
+        "lng": -94.74
+      },
+      "details": {
+        "timezone": -6,
+        "photos": [
+          {
+            "url": "https://lh5.googleusercontent.com/p/AF1QipMhgoxVwS5-vW7ZFCig6xgWjpfdDPcghlBeZNTu=w400",
+            "attributionHtml": "<a href=\"https://nodemixaholic.com\">NodeMixaholic</a>",
+            "lg": true
+          }
+        ]
+      }
+    }
+  ]
+}
